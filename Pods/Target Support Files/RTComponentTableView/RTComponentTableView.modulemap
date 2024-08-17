@@ -1,0 +1,6 @@
+framework module RTComponentTableView {
+  umbrella header "RTComponentTableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

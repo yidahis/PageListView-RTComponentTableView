@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.1.0)
+  - RTComponentTableView (0.1.1)
+
+DEPENDENCIES:
+  - Masonry
+  - RTComponentTableView
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - RTComponentTableView
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  RTComponentTableView: 57602d6afa93fe63efe3c71e19ffc4498b3d3585
+
+PODFILE CHECKSUM: 0db619588cd3d7a358cf6bed64d0e928b9ab9eb2
+
+COCOAPODS: 1.15.2
